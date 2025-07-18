@@ -18,7 +18,7 @@ An Excel-based dashboard built to visualize and explore key sales metrics includ
 
 # 📷 Preview
 
-![Dashboard Preview](dashboard-preview.png)
+
 
 # 📂 Files Included
 - `SALES DASHBOARD 2025 WITH DATA.xlsx` - Main dashboard file
