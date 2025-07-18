@@ -17,6 +17,7 @@ An Excel-based dashboard built to visualize and explore key sales metrics includ
 - Interactive filters by Segment and Category
 
 # 📷 Preview
+https://github.com/anakshiadlakha19/SALES-DASHBOARD-2025/blob/main/SALES%20DASHBOARD%20PREVIEW.png
 
 
 
